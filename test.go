@@ -1,6 +1,11 @@
 package main
-import fmt
+import "fmt"
 
 func main (){
-	
+    printyou()
 }
+
+func printyou(){
+	fmt.Println("its uu")
+}
+
